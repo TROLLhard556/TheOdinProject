@@ -1,0 +1,6 @@
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = git@github.com:TROLLhard556/odin-recipes
+[submodule "css-exercises"]
+	path = css-exercises
+	url = git@github.com:TROLLhard556/css-exercises
