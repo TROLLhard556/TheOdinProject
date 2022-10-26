@@ -1,0 +1,13 @@
+Setting up git
+\\ These commands configure git \\
+
+'git config --global user.name "Your Name"'
+'git config --global user.email "youremail@example.com"'
+'git config --global init.defaultBranch main'
+'git config --global color.ui auto
+# Set up SSH key and connect to github
+'ssh-keygen -t ed25519 -C <email>'
+'cat ~/.ssh/id_ed25519.pub' -> copy output and paste into Github SSH key settings
+# Test SSH connection to Github
+'ssh -T git@github.com'
+
