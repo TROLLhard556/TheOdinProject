@@ -11,3 +11,11 @@ Setting up git
 # Test SSH connection to Github
 'ssh -T git@github.com'
 
+Using Git
+\\ These commands are commonly used to manage git repos \\
+
+'git clone git@github.com:username/repo.git'
+'git status'
+'git add File'
+'git commit -m "Commit message"'
+'git push origin main'
