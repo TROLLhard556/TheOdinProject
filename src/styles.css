@@ -1,0 +1,15 @@
+body {
+	background-color: #6B818C;
+	text-align: center;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;	
+}
+
+li {
+	background-color: #F1BF98;
+}

@@ -1,0 +1,38 @@
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.header {
+
+}
+
+#headerLinks {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.main {
+
+}
+
+#hero {
+
+}
+
+#boxes {
+
+}
+
+#quote {
+
+}
+
+#callToAction {
+
+}
+
+.footer {
+
+}
