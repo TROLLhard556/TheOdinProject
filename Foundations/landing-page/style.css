@@ -49,16 +49,40 @@ a {
 	font-weight: extra-bold;
 }
 
+#heroImage {
+	background-color: #6d747d;
+}
+
 #boxes {
 
 }
 
 #quote {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
+#author {
+	display: flex;
+	align-items: center;
+	justify-content: right;
 }
 
 #callToAction {
+	color: #F9FAF8;
+}
 
+#box{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #3882F6;
+}
+
+#boxtext {
+	display: flex;
+	align-items: left;
 }
 
 .footer {
